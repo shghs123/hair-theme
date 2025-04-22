@@ -1,0 +1,137 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "<strong>Contact</strong>",
+        "heading_size": "h1",
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_YQBGm8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<hr>",
+        "color_scheme": "scheme-4",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "collapsible_content_PgyCTN": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_iLBT8M": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "🚚 Do you ship worldwide, and how much does shipping cost?",
+            "icon": "none",
+            "row_content": "<p>Yes, we ship worldwide! We offer both domestic and international shipping with tracking. We provide free shipping over 100$ we want your experience to be simple and efficient, just as we would want it ourselves.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wzbyqU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "⏳ How long does it take to process and ship your products?",
+            "icon": "none",
+            "row_content": "<p>We process most orders within 1-3 days. Shipping usually takes 6-9 days worldwide.</p><p><em>Note: Our 6-9 day shipping estimate is based on the average of our orders. Some orders may arrive quicker, while others may take slightly longer, especially if delayed at customs.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TLfzPP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "🔄 Do you offer item replacements for free?",
+            "icon": "none",
+            "row_content": "<p>Yes! If your watch is defective or damaged upon arrival, we’ll replace it at no additional cost. (If the damage was not caused by the shipping company) Simply contact us with proof (photos or videos) of the defect to start the process.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WngYLb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "🔨 How durable are your watches?",
+            "icon": "none",
+            "row_content": "<p>Most of our watches are crafted using stainless steel for exceptional durability and feature sapphire glass, known for its scratch resistance.</p><p>Additionally, most of them are water-resistant, making them suitable for everyday use, including splashes, rain, showers, and pools.</p><p><em>Note: You can check the specifications on the product page to confirm if a particular watch is waterproof.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nUxDDX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "🚧 Will I be charged duties and taxes?",
+            "icon": "none",
+            "row_content": "<p>There may be duties and taxes incurred on your shipment that you will be responsible for.</p><p><em>Please note that we do not have control over these fees and cannot advise on the exact costs, as they vary by country. For more information, please contact your local customs office.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ePPRrc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "🪛 How can I adjust the strap or metal band?",
+            "icon": "none",
+            "row_content": "<p>For strap adjustments, customers can visit a nearby watch specialist or retailer for assistance if they are unfamiliar with the process or don’t have the necessary tools.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QYp7tC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "❔ have a different question.",
+            "icon": "none",
+            "row_content": "<p>You can contact us through the contact box above. We will do our best to help you as soon as possible—<strong>usually within 24 hours or faster.</strong></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_iLBT8M",
+        "collapsible_row_wzbyqU",
+        "collapsible_row_TLfzPP",
+        "collapsible_row_WngYLb",
+        "collapsible_row_nUxDDX",
+        "collapsible_row_ePPRrc",
+        "collapsible_row_QYp7tC"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Frequently asked questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "scheme-4",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "custom_liquid_YQBGm8",
+    "collapsible_content_PgyCTN"
+  ]
+}

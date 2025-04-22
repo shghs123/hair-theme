@@ -1,0 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_no_animation_i88NQ9": {
+      "type": "rich-text-no-animation",
+      "blocks": {
+        "text_kGEt3N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🚚 Free shipping for orders above $100</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kGEt3N"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_TnbVhU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Vj43Hd": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Free Shipping Over $100</strong>",
+            "text": "<p>Enjoy <strong>free shipping</strong> on <strong>all orders</strong> over $100. Shop now and get your luxury-inspired watches and bracelets delivered at no extra cost!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NkeKzU": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>24/7 Customer Support</strong>",
+            "text": "<p>Have a question? Head to the contact page. Our friendly support team is here to help you anytime, anywhere.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BPdMnY": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Secure & Trusted Checkout</strong>",
+            "text": "<p>Shop with confidence! Our <strong>secure checkout</strong> ensures your personal and payment details stay safe.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Vj43Hd",
+        "column_NkeKzU",
+        "column_BPdMnY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "top-picks",
+        "products_to_show": 3,
+        "title": "TOP PICKS FOR YOU",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-4",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "rich_text_no_animation_i88NQ9",
+    "cart-items",
+    "cart-footer",
+    "multicolumn_TnbVhU",
+    "featured-collection"
+  ]
+}

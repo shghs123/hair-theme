@@ -1,0 +1,275 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_dmAqTp": {
+      "type": "image-with-text-custom",
+      "blocks": {
+        "heading_8rk8E3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ceramic Bezel Sapphire Watch RAVEN Edition",
+            "heading_size": "h2"
+          }
+        },
+        "text_bk87fH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing our flagship 2025 masterpiece. </p><p>Get it now—these exceptional timepieces won't remain available for long.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Xqdyc3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy NOW",
+            "button_link": "shopify://products/ceramic-bezel-sapphire-watch-raven-edition",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8rk8E3",
+        "text_bk87fH",
+        "button_Xqdyc3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hero1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-4",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text": {
+      "type": "rich-text-no-animation",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Timeless Style, Affordable Price</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspired by luxury, crafted for the modern gentleman. Our watches bring you premium aesthetics at a fraction of the cost.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "featured_collection_JUhwBJ": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "luxury-watches",
+        "products_to_show": 3,
+        "title": "ELITE COLLECTION",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "color_scheme": "scheme-4",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "basic-watches",
+        "products_to_show": 3,
+        "title": "ESSENTIAL WATCHES",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "color_scheme": "scheme-4",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Xt33Kb": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "premium-watches",
+        "products_to_show": 3,
+        "title": "PREMIUM WATCHES",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "color_scheme": "scheme-4",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "luxury-bracelets"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "ceramic-bezel-sapphire-watch-aurora-edition",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-picks"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "EXPLORE BRACELETS & MORE..",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Limited</strong>",
+            "text": "<p>We rotate collections monthly to keep styles fresh. Snag exclusive designs before they’re gone forever!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Elegant</strong>",
+            "text": "<p>Timeless elegance meets modern craftsmanship. Each piece is designed to exude sophistication and class.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Handpicked</strong>",
+            "text": "<p>We hand-pick every piece to ensure only the most stylish and high-quality accessories make it to you.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_with_text_dmAqTp",
+    "rich_text",
+    "featured_collection_JUhwBJ",
+    "featured_collection_Xt33Kb",
+    "featured_collection",
+    "collage",
+    "multicolumn"
+  ]
+}
