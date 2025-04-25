@@ -182,17 +182,15 @@
           "type": "image",
           "settings": {}
         },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "top-picks"
-          }
+        "image_jzmn7q": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
         "collection-0",
         "image_FtEGNp",
-        "collection-1"
+        "image_jzmn7q"
       ],
       "settings": {
         "heading": "EXPLORE BRACELETS & MORE..",
@@ -250,7 +248,7 @@
         "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "color_scheme": "scheme-4",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
