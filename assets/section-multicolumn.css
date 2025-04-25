@@ -147,7 +147,11 @@
 }
 
 .multicolumn-card__info {
-  padding: 2.5rem;
+}
+
+.multicolumn-card {
+  padding: 16px !important;
+  background-color: pink !important;
 }
 
 .background-none .multicolumn-card__info {
@@ -205,9 +209,6 @@
   box-sizing: border-box;
   border-radius: 16px !important;
   background-color: rgba(0, 0, 0, 0.6) !important;
-  padding-top: 24px;
-  padding-left: 12px;
-  padding-right: 12px;
   height: 100%;
 }
 
