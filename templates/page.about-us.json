@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
@@ -18,7 +19,6 @@
     },
     "custom_liquid_MmQ8Ty": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"background-color: #822FA1; padding: 50px; text-align: center; font-family: Arial, sans-serif; position: relative;\">\n    <div style=\"position: absolute; top: 20px; left: 20px; width: 30px; height: 30px; background-color: black;\"><br></div>\n    <div style=\"position: absolute; top: 20px; right: 20px; width: 30px; height: 30px; background-color: black;\"><br></div>\n    <div style=\"position: absolute; bottom: 20px; left: 20px; width: 30px; height: 30px; background-color: black;\"><br></div>\n    \n    <h1 style=\"font-size: clamp(40px, 10vw, 120px); font-weight: 900; margin-bottom: 20px; color: black; text-align: right; max-width: 1200px; margin-left: auto; margin-right: auto;\">DECLARATION</h1>\n    <p style=\"font-size: clamp(16px, 3vw, 24px); line-height: 1.4; color: black; max-width: 1200px; margin: 0px auto; text-align: right;\"><meta charset=\"utf-8\">We are not just a brand. We are creators of timeless elegance.</p>\n    <p style=\"font-size: clamp(16px, 3vw, 24px); line-height: 1.4; color: black; max-width: 1200px; margin: 0px auto; text-align: right;\">Our mission is to bring you the essence of luxury without the excessive price tag.</p>\n    <p style=\"font-size: clamp(16px, 3vw, 24px); line-height: 1.4; color: black; max-width: 1200px; margin: 0px auto; text-align: right;\">Designed for those who appreciate style, quality, and authenticity, our watches and bracelets are made to be worn, lived in, and admired.</p>\n</div>",
         "color_scheme": "",
