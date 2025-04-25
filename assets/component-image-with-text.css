@@ -15,6 +15,8 @@
 .image-with-text__media {
   min-height: 100%;
   overflow: visible;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  border-radius: 16px !important;
 }
 
 .image-with-text__media--small {
@@ -90,6 +92,9 @@
   padding: 2rem !important;
   position: relative;
   z-index: 1;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  border-radius: 16px !important;
+  max-width: 600px !important;
 }
 
 .image-with-text .grid__item::after {
@@ -210,9 +215,10 @@
   .image-with-text--overlap .image-with-text__content {
     height: auto;
     width: calc(100% + 4rem);
-    min-width: calc(100% + 4rem);
+
     margin-top: 0;
     margin-left: -4rem;
+    align-self: center;
   }
 
   .image-with-text--overlap .image-with-text__grid--reverse .image-with-text__content {
@@ -310,6 +316,11 @@
 
 .image-with-text:not(.collapse-corners, .image-with-text--overlap) .image-with-text__media-item {
   z-index: 2;
+}
+
+.image-with-text--overlap {
+  margin-top: 5rem !important;
+  margin-bottom: 1rem !important;
 }
 
 /* Needed for gradient continuity with or without animation so that transparent PNG images come up as we would expect */
