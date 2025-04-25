@@ -9,51 +9,106 @@
  */
 {
   "sections": {
-    "image_with_text_dmAqTp": {
-      "type": "image-with-text-custom",
+    "image_with_text_MHp3Mk": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_8rk8E3": {
+        "heading_6GBbww": {
           "type": "heading",
           "settings": {
-            "heading": "Ceramic Bezel Sapphire Watch RAVEN Edition",
-            "heading_size": "h2"
+            "heading": "Personalized Hair Regrowth",
+            "heading_size": "h1"
           }
         },
-        "text_bk87fH": {
+        "text_nMXk3Q": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing our flagship 2025 masterpiece. </p><p>Get it now—these exceptional timepieces won't remain available for long.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         },
-        "button_Xqdyc3": {
+        "button_gibpQp": {
           "type": "button",
           "settings": {
-            "button_label": "Buy NOW",
-            "button_link": "shopify://products/ceramic-bezel-sapphire-watch-raven-edition",
+            "button_label": "Men's products",
+            "button_link": "",
             "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "heading_8rk8E3",
-        "text_bk87fH",
-        "button_Xqdyc3"
+        "heading_6GBbww",
+        "text_nMXk3Q",
+        "button_gibpQp"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/hero1.png",
+        "image": "shopify://shop_images/cover.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "mobile_content_alignment": "center",
         "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-65973a10-344b-4bb6-97dc-0759b252085d",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bcUpfU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dRPkbJ": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>🫵 Personalized help</strong>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. </p>",
+            "link_label": "Join NOW",
+            "link": "shopify://pages/data-sale-opt-out"
+          }
+        },
+        "column_MBtQVx": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>🎁 Free 90 day plan</strong>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. </p>",
+            "link_label": "Get it here",
+            "link": ""
+          }
+        },
+        "column_ggjVcC": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>🤝 Guarantee </strong>",
+            "text": "<p>We will the risk for you!</p><p>Don’t see results in our community in 300 days? <strong>We’ll refund your purchase.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dRPkbJ",
+        "column_MBtQVx",
+        "column_ggjVcC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
         "color_scheme": "scheme-4",
-        "padding_top": 100,
-        "padding_bottom": 100
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text": {
@@ -86,68 +141,12 @@
         "padding_bottom": 24
       }
     },
-    "featured_collection_JUhwBJ": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "luxury-watches",
-        "products_to_show": 3,
-        "title": "ELITE COLLECTION",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 3,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "color_scheme": "scheme-4",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
         "collection": "basic-watches",
         "products_to_show": 3,
         "title": "ESSENTIAL WATCHES",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 3,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "color_scheme": "scheme-4",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_Xt33Kb": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "premium-watches",
-        "products_to_show": 3,
-        "title": "PREMIUM WATCHES",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -179,12 +178,9 @@
             "collection": "luxury-bracelets"
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "ceramic-bezel-sapphire-watch-aurora-edition",
-            "second_image": false
-          }
+        "image_FtEGNp": {
+          "type": "image",
+          "settings": {}
         },
         "collection-1": {
           "type": "collection",
@@ -195,7 +191,7 @@
       },
       "block_order": [
         "collection-0",
-        "product",
+        "image_FtEGNp",
         "collection-1"
       ],
       "settings": {
@@ -264,10 +260,9 @@
     }
   },
   "order": [
-    "image_with_text_dmAqTp",
+    "image_with_text_MHp3Mk",
+    "multicolumn_bcUpfU",
     "rich_text",
-    "featured_collection_JUhwBJ",
-    "featured_collection_Xt33Kb",
     "featured_collection",
     "collage",
     "multicolumn"
